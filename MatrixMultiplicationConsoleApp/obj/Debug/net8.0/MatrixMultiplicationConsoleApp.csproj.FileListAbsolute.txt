@@ -1,0 +1,17 @@
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\bin\Debug\net8.0\MatrixMultiplicationConsoleApp.exe
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\bin\Debug\net8.0\MatrixMultiplicationConsoleApp.deps.json
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\bin\Debug\net8.0\MatrixMultiplicationConsoleApp.runtimeconfig.json
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\bin\Debug\net8.0\MatrixMultiplicationConsoleApp.dll
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\bin\Debug\net8.0\MatrixMultiplicationConsoleApp.pdb
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\MatrixMultiplicationConsoleApp.csproj.AssemblyReference.cache
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\MatrixMultiplicationConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\MatrixMultiplicationConsoleApp.AssemblyInfoInputs.cache
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\MatrixMultiplicationConsoleApp.AssemblyInfo.cs
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\MatrixMultiplicationConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\MatrixMu.942D4C12.Up2Date
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\MatrixMultiplicationConsoleApp.dll
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\refint\MatrixMultiplicationConsoleApp.dll
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\MatrixMultiplicationConsoleApp.pdb
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\MatrixMultiplicationConsoleApp.genruntimeconfig.cache
+C:\Users\skry20487\Matrix\MatrixMultiplicationConsoleApp\MatrixMultiplicationConsoleApp\obj\Debug\net8.0\ref\MatrixMultiplicationConsoleApp.dll
